@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="692px" height="692px" viewBox="0 0 692 692" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M324.59,163.29 L303.76,113.14 C232.744849,125.341166 171.276384,169.501465 137.048942,232.908896 C102.821499,296.316326 99.6325254,371.935997 128.4,438 L166.23,395.26 L215.23,384.78 C204.383525,350.651757 207.61622,313.605053 224.209817,281.871231 C240.803414,250.137408 269.38353,226.344856 303.6,215.78 L324.59,163.29 Z" id="shape-3" fill="#9B9B9B" fill-rule="nonzero"></path>
+            <path d="M468.59,476.79 L441.54,435.41 C416.788237,462.165173 382.20562,477.683221 345.763972,478.386998 C309.322324,479.090774 274.166335,464.919546 248.4,439.14 L194.56,447.72 L162.23,493 C167.023333,498.806667 172.116667,504.413333 177.51,509.82 C221.444236,553.754817 281.032197,578.437189 343.165,578.437189 C405.297803,578.437189 464.885764,553.754817 508.82,509.82 C514.756047,503.877519 520.373882,497.625466 525.65,491.09 L468.59,476.79 Z" id="shape-2" fill="#9B9B9B" fill-rule="nonzero"></path>
+            <path d="M385.37,164.72 L368.49,212.26 C430.49,224.14 477.43,278.74 477.43,344.12 C477.43744,355.406506 476.019557,366.648776 473.21,377.58 L504.08,424.79 L558.52,436.62 C587.868243,368.18111 582.952783,289.869049 545.277111,225.637088 C507.601438,161.405128 441.648021,118.895276 367.59,111.11 L385.37,164.72 Z" id="shape-1" fill="#9B9B9B" fill-rule="nonzero"></path>
+            <g id="icon-extinguisher" transform="translate(132.000000, 312.000000)" stroke="#FFFFFF">
+                <circle id="Oval" transform="translate(26.854698, 26.797628) rotate(-0.190000) translate(-26.854698, -26.797628) " cx="26.8546977" cy="26.7976282" r="26.25"></circle>
+                <path d="M33.64,23.45 L33.64,43.45 L20,43.45 L20,23.45 C19.994465,20.2064584 22.6164724,17.5710277 25.86,17.56 L27.78,17.56 C31.0235276,17.5710277 33.645535,20.2064584 33.64,23.45 L33.64,23.45 Z" id="Shape"></path>
+                <circle id="Oval" cx="20.88" cy="11.57" r="1.65"></circle>
+                <polyline id="Shape" points="24.99 13.37 18.26 13.37 18.26 17.06 20.34 17.06 20.34 15.22 24.99 15.22"></polyline>
+                <path d="M28.66,15.22 L31.66,15.22" id="Shape"></path>
+                <path d="M31.66,13.37 L28.66,13.37" id="Shape"></path>
+                <polygon id="Shape" points="37.48 17.39 31.66 15.73 31.66 12.76 37.48 11.1"></polygon>
+                <polyline id="Shape" points="24.99 17.56 24.99 10.93 28.66 10.93 28.66 17.56"></polyline>
+                <path d="M19.62,38.86 L28.66,38.86" id="Shape"></path>
+            </g>
+            <g id="intervention" transform="translate(158.000000, 163.000000)" font-size="24" fill="#FFFFFF" font-family="UnicaOne-Regular, Unica One" font-weight="normal">
+                <text id="I" transform="translate(14.846050, 110.286119) rotate(-70.750000) translate(-14.846050, -110.286119) ">
+                    <tspan x="10.8460504" y="118.286119">I</tspan>
+                </text>
+                <text id="N" transform="translate(18.670000, 100.444549) rotate(-67.557247) translate(-18.670000, -100.444549) ">
+                    <tspan x="11.7022744" y="108.444549">N</tspan>
+                </text>
+                <text id="T" transform="translate(23.499262, 89.755595) rotate(-63.730000) translate(-23.499262, -89.755595) ">
+                    <tspan x="18.4992623" y="97.7555947">T</tspan>
+                </text>
+                <text id="E" transform="translate(28.223961, 80.864398) rotate(-60.510000) translate(-28.223961, -80.864398) ">
+                    <tspan x="22.723961" y="88.8643979">E</tspan>
+                </text>
+                <text id="R" transform="translate(34.180000, 70.983414) rotate(-56.784749) translate(-34.180000, -70.983414) ">
+                    <tspan x="28.155749" y="78.9834144">R</tspan>
+                </text>
+                <text id="V" transform="translate(40.983266, 61.344897) rotate(-53.230000) translate(-40.983266, -61.344897) ">
+                    <tspan x="34.9832663" y="69.3448965">V</tspan>
+                </text>
+                <text id="E" transform="translate(48.045000, 52.549300) rotate(-49.460848) translate(-48.045000, -52.549300) ">
+                    <tspan x="42.544725" y="60.5493">E</tspan>
+                </text>
+                <text id="N" transform="translate(56.385625, 43.355055) rotate(-45.850000) translate(-56.385625, -43.355055) ">
+                    <tspan x="49.3856247" y="51.3550552">N</tspan>
+                </text>
+                <text id="T" transform="translate(64.760000, 35.334521) rotate(-42.157862) translate(-64.760000, -35.334521) ">
+                    <tspan x="59.7687577" y="43.3345215">T</tspan>
+                </text>
+                <text id="I" transform="translate(71.220266, 29.704441) rotate(-39.550000) translate(-71.220266, -29.704441) ">
+                    <tspan x="67.220266" y="37.704441">I</tspan>
+                </text>
+                <text id="O" transform="translate(79.220864, 23.483458) rotate(-36.420000) translate(-79.220864, -23.483458) ">
+                    <tspan x="72.7208644" y="31.4834584">O</tspan>
+                </text>
+                <text id="N" transform="translate(89.988348, 16.146866) rotate(-32.320000) translate(-89.988348, -16.146866) ">
+                    <tspan x="82.9883479" y="24.1468664">N</tspan>
+                </text>
+            </g>
+            <g id="infra" transform="translate(481.000000, 217.000000)" font-size="24" fill="#FFFFFF" font-family="UnicaOne-Regular, Unica One" font-weight="normal">
+                <text id="I" transform="translate(13.810000, 11.758535) rotate(54.727579) translate(-13.810000, -11.758535) ">
+                    <tspan x="9.79243855" y="19.7585349">I</tspan>
+                </text>
+                <text id="N" transform="translate(19.647832, 20.763602) rotate(58.200000) translate(-19.647832, -20.763602) ">
+                    <tspan x="12.6478321" y="28.7636025">N</tspan>
+                </text>
+                <text id="F" transform="translate(25.420000, 30.872939) rotate(61.893730) translate(-25.420000, -30.872939) ">
+                    <tspan x="20.4317638" y="38.8729387">F</tspan>
+                </text>
+                <text id="R" transform="translate(30.390460, 40.870286) rotate(65.430000) translate(-30.390460, -40.870286) ">
+                    <tspan x="24.3904595" y="48.8702864">R</tspan>
+                </text>
+                <text id="A" transform="translate(34.982141, 51.858034) rotate(69.140000) translate(-34.982141, -51.858034) ">
+                    <tspan x="28.9821407" y="59.8580341">A</tspan>
+                </text>
+                <text id="S" transform="translate(38.791176, 62.980793) rotate(72.890000) translate(-38.791176, -62.980793) ">
+                    <tspan x="32.7911763" y="70.980793">S</tspan>
+                </text>
+                <text id="T" transform="translate(41.757101, 73.771477) rotate(76.290000) translate(-41.757101, -73.771477) ">
+                    <tspan x="36.7571007" y="81.7714772">T</tspan>
+                </text>
+                <text id="R" transform="translate(43.920000, 84.160491) rotate(79.592289) translate(-43.920000, -84.160491) ">
+                    <tspan x="37.941639" y="92.160491">R</tspan>
+                </text>
+                <text id="U" transform="translate(45.755365, 96.421076) rotate(83.490000) translate(-45.755365, -96.421076) ">
+                    <tspan x="39.2553647" y="104.421076">U</tspan>
+                </text>
+                <text id="C" transform="translate(46.750000, 108.562511) rotate(87.137595) translate(-46.750000, -108.562511) ">
+                    <tspan x="40.7425047" y="116.562511">C</tspan>
+                </text>
+                <text id="T" transform="translate(46.910000, 119.589300) rotate(90.572939) translate(-46.910000, -119.589300) ">
+                    <tspan x="41.90975" y="127.5893">T</tspan>
+                </text>
+                <text id="U" transform="translate(46.445000, 130.665742) rotate(94.004173) translate(-46.445000, -130.665742) ">
+                    <tspan x="39.9290945" y="138.665742">U</tspan>
+                </text>
+                <text id="R" transform="translate(45.080000, 142.862100) rotate(98.049062) translate(-45.080000, -142.862100) ">
+                    <tspan x="39.0809001" y="150.8621">R</tspan>
+                </text>
+                <text id="E" transform="translate(43.120000, 154.077200) rotate(101.534621) translate(-43.120000, -154.077200) ">
+                    <tspan x="37.6189001" y="162.0772">E</tspan>
+                </text>
+            </g>
+            <g id="instruction" transform="translate(220.000000, 474.000000)" font-size="24" fill="#FFFFFF" font-family="UnicaOne-Regular, Unica One" font-weight="normal">
+                <text id="I" transform="translate(11.845507, 13.961744) rotate(36.380000) translate(-11.845507, -13.961744) ">
+                    <tspan x="7.84550668" y="21.9617444">I</tspan>
+                </text>
+                <text id="N" transform="translate(20.529851, 19.985976) rotate(33.240000) translate(-20.529851, -19.985976) ">
+                    <tspan x="13.529851" y="27.9859761">N</tspan>
+                </text>
+                <text id="S" transform="translate(31.206619, 26.470506) rotate(29.430000) translate(-31.206619, -26.470506) ">
+                    <tspan x="25.2066188" y="34.4705059">S</tspan>
+                </text>
+                <text id="T" transform="translate(41.029206, 31.640862) rotate(26.210000) translate(-41.029206, -31.640862) ">
+                    <tspan x="36.0292061" y="39.6408618">T</tspan>
+                </text>
+                <text id="R" transform="translate(50.553255, 35.987897) rotate(23.050000) translate(-50.553255, -35.987897) ">
+                    <tspan x="44.5532553" y="43.9878974">R</tspan>
+                </text>
+                <text id="U" transform="translate(61.971056, 40.417868) rotate(19.430000) translate(-61.971056, -40.417868) ">
+                    <tspan x="55.4710556" y="48.4178683">U</tspan>
+                </text>
+                <text id="C" transform="translate(73.519433, 44.063162) rotate(15.780000) translate(-73.519433, -44.063162) ">
+                    <tspan x="67.5194327" y="52.0631623">C</tspan>
+                </text>
+                <text id="T" transform="translate(84.120000, 46.638535) rotate(12.652557) translate(-84.120000, -46.638535) ">
+                    <tspan x="79.0980482" y="54.6385349">T</tspan>
+                </text>
+                <text id="I" transform="translate(92.363430, 48.369852) rotate(10.040000) translate(-92.363430, -48.369852) ">
+                    <tspan x="88.3634304" y="56.3698524">I</tspan>
+                </text>
+                <text id="O" transform="translate(102.312740, 49.848265) rotate(7.050000) translate(-102.312740, -49.848265) ">
+                    <tspan x="95.8127399" y="57.8482651">O</tspan>
+                </text>
+                <text id="N" transform="translate(115.140352, 50.968035) rotate(3.160000) translate(-115.140352, -50.968035) ">
+                    <tspan x="108.140352" y="58.9680352">N</tspan>
+                </text>
+            </g>
+            <g id="icon-sprinkler" transform="translate(413.000000, 161.000000)" stroke="#FFFFFF">
+                <circle id="Oval" transform="translate(27.224008, 27.255366) rotate(-0.190000) translate(-27.224008, -27.255366) " cx="27.2240083" cy="27.2553661" r="26.25"></circle>
+                <path d="M11.29,34.96 L14.93,33.04" id="Shape"></path>
+                <path d="M16.64,32.13 L20.29,30.21" id="Shape"></path>
+                <path d="M17.6,41.96 L19.74,38.43" id="Shape"></path>
+                <path d="M20.74,36.78 L22.88,33.25" id="Shape"></path>
+                <path d="M27.1,44.55 L27.1,40.42" id="Shape"></path>
+                <path d="M27.1,38.5 L27.1,34.37" id="Shape"></path>
+                <path d="M42.91,34.96 L39.26,33.04" id="Shape"></path>
+                <path d="M37.56,32.13 L33.91,30.21" id="Shape"></path>
+                <path d="M36.6,41.96 L34.46,38.43" id="Shape"></path>
+                <path d="M33.46,36.78 L31.32,33.25" id="Shape"></path>
+                <polyline id="Shape" points="20.4 17.52 20.4 22.37 22.39 24.36"></polyline>
+                <polyline id="Shape" points="33.43 17.52 33.43 22.37 31.43 24.36"></polyline>
+                <rect id="Rectangle-path" x="22.46" y="24.29" width="9.04" height="3.01"></rect>
+                <path d="M25.15,24.29 L25.15,17.52" id="Shape"></path>
+                <path d="M29.03,24.29 L29.03,17.52" id="Shape"></path>
+                <rect id="Rectangle-path" x="14.84" y="13.11" width="24.74" height="4.62"></rect>
+                <path d="M14.84,15.42 L22.88,15.42" id="Shape"></path>
+            </g>
+            <g id="icon-man" transform="translate(396.000000, 482.000000)" stroke="#FFFFFF">
+                <polyline id="Shape" points="22.85 30.61 21.83 32.32 24.59 36.78 26.77 32.82"></polyline>
+                <polyline id="Shape" points="31.46 30.61 32.48 32.32 29.72 36.78 27.54 32.82"></polyline>
+                <circle id="Oval" transform="translate(27.276122, 26.519880) rotate(-0.190000) translate(-27.276122, -26.519880) " cx="27.276122" cy="26.5198797" r="26.25"></circle>
+                <path d="M18.08,20 C18.0849069,16.0663608 20.7433302,12.6313657 24.55,11.64 L24.55,9.76 L29.55,9.76 L29.55,11.64 C33.3487323,12.6390018 35.9974776,16.0721043 36,20" id="Shape"></path>
+                <path d="M34.51,20 L34.51,23.54 C34.3518943,26.2310725 33.2630668,28.7834539 31.43,30.76 C30.3306608,31.9641968 28.7987329,32.6834118 27.17,32.76 L26.89,32.76 C25.2612671,32.6834118 23.7293392,31.9641968 22.63,30.76 C20.7969332,28.7834539 19.7081057,26.2310725 19.55,23.54 L19.55,20" id="Shape"></path>
+                <path d="M22.34,33.13 C19.557396,33.7029231 16.8838711,34.715622 14.42,36.13 C13.4091395,36.6215165 12.7766034,37.6562207 12.8,38.78 L12.8,41.11 L41.46,41.11 L41.46,38.78 C41.4833966,37.6562207 40.8508605,36.6215165 39.84,36.13 C37.3761289,34.715622 34.702604,33.7029231 31.92,33.13" id="Shape"></path>
+                <path d="M16.91,19.96 L37.16,19.96" id="Shape"></path>
+                <path d="M29,14.41 C30.2281002,15.0779765 31.2775946,16.0314386 32.06,17.19" id="Shape"></path>
+            </g>
+            <path d="M346.08,75.1 C495.43,75.1 616.51,196.18 616.51,345.53 C616.51,494.88 495.44,616 346.08,616 C196.72,616 75.65,494.89 75.65,345.53 C75.65,196.17 196.73,75.1 346.08,75.1 L346.08,75.1 Z M346.08,0.1 C181.770812,0.17154056 40.2418074,115.95083 7.61180482,276.987463 C-25.0181978,438.024096 60.2785794,599.763896 211.6,663.79 C387.367382,738.072295 590.072697,655.802379 664.354995,480.034998 C738.637293,304.267617 656.36738,101.562301 480.6,27.28 C438.046099,9.25937466 392.292229,0.0147255457 346.08,0.1 L346.08,0.1 Z" id="outer_ring" fill="#9B9B9B" fill-rule="nonzero"></path>
+            <circle id="center_ring" fill="#9B9B9B" fill-rule="nonzero" cx="345.25" cy="345.53" r="110.28"></circle>
+            <g id="beheer" transform="translate(239.000000, 25.000000)" font-size="25" fill="#FFFFFF" font-family="UnicaOne-Regular, Unica One" font-weight="normal">
+                <text id="B" transform="translate(10.914541, 30.613258) rotate(-18.150000) translate(-10.914541, -30.613258) ">
+                    <tspan x="4.41454131" y="38.6132583">B</tspan>
+                </text>
+                <text id="E" transform="translate(22.642033, 27.033564) rotate(-15.880000) translate(-22.642033, -27.033564) ">
+                    <tspan x="16.6420334" y="35.033564">E</tspan>
+                </text>
+                <text id="H" transform="translate(34.530810, 23.932617) rotate(-13.550000) translate(-34.530810, -23.932617) ">
+                    <tspan x="27.5308102" y="31.9326166">H</tspan>
+                </text>
+                <text id="E" transform="translate(46.870000, 21.306273) rotate(-10.972240) translate(-46.870000, -21.306273) ">
+                    <tspan x="40.8805092" y="29.306273">E</tspan>
+                </text>
+                <text id="E" transform="translate(57.920000, 19.197311) rotate(-9.180542) translate(-57.920000, -19.197311) ">
+                    <tspan x="51.9029243" y="27.1973107">E</tspan>
+                </text>
+                <text id="R" transform="translate(69.561828, 17.657052) rotate(-6.900000) translate(-69.561828, -17.657052) ">
+                    <tspan x="63.061828" y="25.6570518">R</tspan>
+                </text>
+                <text id="E" transform="translate(87.104377, 16.068086) rotate(-3.610000) translate(-87.104377, -16.068086) ">
+                    <tspan x="81.1043769" y="24.0680857">E</tspan>
+                </text>
+                <text id="N" transform="translate(99.373815, 15.559200) rotate(-1.250000) translate(-99.373815, -15.559200) ">
+                    <tspan x="92.3738151" y="23.5591996">N</tspan>
+                </text>
+                <text id="O" transform="translate(118.762563, 15.753252) rotate(2.350000) translate(-118.762563, -15.753252) ">
+                    <tspan x="112.262563" y="23.7532524">O</tspan>
+                </text>
+                <text id="N" transform="translate(132.162603, 16.591812) rotate(4.860000) translate(-132.162603, -16.591812) ">
+                    <tspan x="125.162603" y="24.5918118">N</tspan>
+                </text>
+                <text id="D" transform="translate(145.681271, 18.048584) rotate(7.360000) translate(-145.681271, -18.048584) ">
+                    <tspan x="139.181271" y="26.0485844">D</tspan>
+                </text>
+                <text id="E" transform="translate(157.860000, 19.782651) rotate(9.743641) translate(-157.860000, -19.782651) ">
+                    <tspan x="151.83306" y="27.7826512">E</tspan>
+                </text>
+                <text id="R" transform="translate(169.355201, 22.054098) rotate(11.770000) translate(-169.355201, -22.054098) ">
+                    <tspan x="162.855201" y="30.0540981">R</tspan>
+                </text>
+                <text id="H" transform="translate(181.816468, 24.948535) rotate(14.180000) translate(-181.816468, -24.948535) ">
+                    <tspan x="174.816468" y="32.9485354">H</tspan>
+                </text>
+                <text id="O" transform="translate(194.449670, 28.437826) rotate(16.650000) translate(-194.449670, -28.437826) ">
+                    <tspan x="187.94967" y="36.4378264">O</tspan>
+                </text>
+                <text id="U" transform="translate(206.727065, 32.392739) rotate(19.070000) translate(-206.727065, -32.392739) ">
+                    <tspan x="200.227065" y="40.3927391">U</tspan>
+                </text>
+                <text id="D" transform="translate(219.085000, 36.971506) rotate(21.695109) translate(-219.085000, -36.971506) ">
+                    <tspan x="212.579153" y="44.9715061">D</tspan>
+                </text>
+            </g>
+            <g id="icon-medal" transform="translate(253.000000, 617.000000)" stroke="#FFFFFF">
+                <polyline id="Shape" points="17.63 27.82 13.13 40.19 18.6 39 22.02 43.42 25.49 33.89"></polyline>
+                <polyline id="Shape" points="35.27 27.82 39.77 40.19 34.31 39 30.88 43.42 27.4 33.87"></polyline>
+                <polygon id="Shape" points="26.44 9.93 29.51 12.91 33.75 12.31 34.48 16.52 38.26 18.53 36.38 22.37 38.26 26.21 34.48 28.22 33.75 32.43 29.51 31.83 26.44 34.8 23.36 31.83 19.13 32.43 18.39 28.22 14.61 26.21 16.49 22.37 14.61 18.53 18.39 16.52 19.13 12.31 23.36 12.91"></polygon>
+                <circle id="Oval" transform="translate(26.484622, 26.535995) rotate(-0.190000) translate(-26.484622, -26.535995) " cx="26.484622" cy="26.5359954" r="26.25"></circle>
+                <circle id="Oval" transform="translate(26.490694, 22.336018) rotate(-0.190000) translate(-26.490694, -22.336018) " cx="26.4906943" cy="22.3360185" r="6.25"></circle>
+                <path d="M32.5,38.46 L30.79,33.77" id="Shape"></path>
+            </g>
+            <g id="icon-flag" transform="translate(319.000000, 628.000000)" stroke="#FFFFFF">
+                <circle id="Oval" transform="translate(27.131827, 26.864947) rotate(-0.190000) translate(-27.131827, -26.864947) " cx="27.1318272" cy="26.8649469" r="26.25"></circle>
+                <path d="M19.61,43.79 L19.66,10.24" id="Shape"></path>
+                <polygon id="Shape" points="37.85 23.33 19.66 23.33 19.66 11.93 37.85 11.93 33.82 17.63"></polygon>
+                <path d="M19.66,19.53 L28.75,19.53" id="Shape"></path>
+            </g>
+            <g id="icon-label" transform="translate(386.000000, 617.000000)" stroke="#FFFFFF">
+                <circle id="Oval" transform="translate(26.773889, 26.523990) rotate(-0.190000) translate(-26.773889, -26.523990) " cx="26.7738891" cy="26.5239898" r="26.25"></circle>
+                <path d="M39.75,13.13 L28.75,12.13 L10.75,30.13 L22.75,42.13 L41.29,23.59 L39.75,13.13 Z M35.54,20.7 C34.8280199,21.412543 33.7568721,21.6259376 32.8261813,21.2406483 C31.8954905,20.8553589 31.2886085,19.9472901 31.2886085,18.94 C31.2886085,17.9327099 31.8954905,17.0246411 32.8261813,16.6393517 C33.7568721,16.2540624 34.8280199,16.467457 35.54,17.18 C36.5142456,18.1494839 36.5187215,19.7249963 35.55,20.7 L35.54,20.7 Z" id="Shape"></path>
+                <circle id="Oval" transform="translate(33.789664, 18.928007) rotate(-45.000000) translate(-33.789664, -18.928007) " cx="33.7896644" cy="18.9280068" r="2.49"></circle>
+                <path d="M14.51,33.62 L21.08,27.05" id="Shape"></path>
+            </g>
+            <g id="icon-centre" transform="translate(311.000000, 301.000000)" stroke="#FFFFFF" stroke-width="1.5">
+                <polyline id="Shape" points="29.6 38.67 28.25 40.95 31.93 46.9 34.83 41.62"></polyline>
+                <polyline id="Shape" points="41.09 38.67 42.44 40.95 38.76 46.9 35.86 41.62"></polyline>
+                <circle id="Oval" transform="translate(35.476470, 35.615470) rotate(-0.190000) translate(-35.476470, -35.615470) " cx="35.4764701" cy="35.6154697" r="35"></circle>
+                <path d="M45.15,24.52 L45.15,29.24 C44.9370287,32.8262545 43.4841236,36.2269716 41.04,38.86 C39.5699336,40.4560285 37.5278127,41.4051833 35.36,41.5 L35,41.5 C32.8321873,41.4051833 30.7900664,40.4560285 29.32,38.86 C26.8758764,36.2269716 25.4229713,32.8262545 25.21,29.24 L25.21,24.52 C25.21,24.52 25.12,15.37 35.03,15.33 C45.36,15.29 45.15,24.52 45.15,24.52 Z" id="Shape"></path>
+                <path d="M41.69,42 C44.63,42.49 47.94,43.77 52.24,46.06 C53.5939362,46.7134765 54.4419994,48.0969529 54.41,49.6 L54.41,52.7 L16.2,52.7 L16.2,49.6 C16.1680006,48.0969529 17.0160638,46.7134765 18.37,46.06 C22.68,43.78 25.98,42.49 28.92,42" id="Shape"></path>
+                <path d="M35.37,48.01 L35.37,52.43" id="Shape"></path>
+            </g>
+            <g id="customer" transform="translate(289.000000, 380.000000)" font-size="24" fill="#FFFFFF" font-family="UnicaOne-Regular, Unica One" font-weight="normal">
+                <text id="C" transform="translate(13.345345, 15.523373) rotate(34.850000) translate(-13.345345, -15.523373) ">
+                    <tspan x="7.34534464" y="23.5233728">C</tspan>
+                </text>
+                <text id="U" transform="translate(24.253160, 21.821396) rotate(25.400000) translate(-24.253160, -21.821396) ">
+                    <tspan x="17.7531605" y="29.821396">U</tspan>
+                </text>
+                <text id="S" transform="translate(35.816839, 26.142879) rotate(15.850000) translate(-35.816839, -26.142879) ">
+                    <tspan x="29.8168388" y="34.1428789">S</tspan>
+                </text>
+                <text id="T" transform="translate(46.856351, 28.406884) rotate(7.460000) translate(-46.856351, -28.406884) ">
+                    <tspan x="41.8563507" y="36.4068841">T</tspan>
+                </text>
+                <text id="O" transform="translate(58.010000, 28.957200) rotate(-1.145763) translate(-58.010000, -28.957200) ">
+                    <tspan x="51.5087001" y="36.9572003">O</tspan>
+                </text>
+                <text id="M" transform="translate(72.058510, 27.295830) rotate(-11.960000) translate(-72.058510, -27.295830) ">
+                    <tspan x="64.05851" y="35.2958298">M</tspan>
+                </text>
+                <text id="E" transform="translate(84.669350, 23.391460) rotate(-22.020000) translate(-84.669350, -23.391460) ">
+                    <tspan x="79.1693499" y="31.3914595">E</tspan>
+                </text>
+                <text id="R" transform="translate(94.977416, 18.246064) rotate(-30.800000) translate(-94.977416, -18.246064) ">
+                    <tspan x="88.9774165" y="26.2460636">R</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
